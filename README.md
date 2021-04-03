@@ -9,6 +9,7 @@ An example of wrapping a REST API in GraphQL- coded for learning purposes by fol
 - Javascript
 - GraphQL
 
+[Live deploy](https://spacex-react-apollo-app.herokuapp.com/)
 
 ## Description
 
