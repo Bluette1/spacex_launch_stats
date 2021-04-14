@@ -9,14 +9,15 @@ An example of wrapping a REST API in GraphQL- coded for learning purposes by fol
 - Javascript
 - GraphQL
 
+[Live deploy](https://spacex-react-apollo-app.herokuapp.com/)
 
 ## Description
 
-A graphQL example - coded for learning purposes by following this [tutorial](https://www.youtube.com/watch?v=SEMTj8w04Z8)
+A graphQL example - coded for learning purposes by following this tutorial [GraphQL With React & Apollo Series 1 - 4](https://www.youtube.com/watch?v=SEMTj8w04Z8)
 
-## Run server
+## Run server locally
 
-`yarn install && yarn start`
+`yarn install && yarn dev`
 
 
 ## Authors
@@ -30,7 +31,7 @@ A graphQL example - coded for learning purposes by following this [tutorial](htt
 # Acknowledgements
 
 - The content in this repository was retrieved from or inspired by the following sites
-  - [GraphQL With React & Apollo [1] - Express GraphQL Server](https://www.youtube.com/watch?v=SEMTj8w04Z8)
+  - [GraphQL With React & Apollo Series 1 - 4](https://www.youtube.com/watch?v=SEMTj8w04Z8)
 
 ## 🤝 Contributing
 
